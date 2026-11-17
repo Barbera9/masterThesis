@@ -11,7 +11,8 @@ Repository ufficiale della tesi di laurea magistrale.
 - **Data di Discussione:** 29 Ottobre 2026
 
 ## Descrizione del Progetto
-Questo progetto di tesi magistrale affronta lo studio e lo sviluppo di metodologie di analisi delle immagini basate su dati iperspettrali e RGB per il monitoraggio non distruttivo dello stato di maturazione della frutta. L'obiettivo principale è valutare la qualità, la freschezza e il grado di maturazione dei prodotti ortofrutticoli attraverso tecniche di elaborazione delle immagini e apprendimento automatico.
+La tesi affronta un'analisi comparativa per valutare l'efficacia di immagini iperspettrali reali, formati a bande ridotte, immagini RGB e dati ricostruiti tramite Deep Learning nella classificazione della maturazione dell'avocado. L'obiettivo principale è quantificare il reale guadagno prestazionale dello spettro rispetto al semplice RGB e verificare se la ricostruzione spettrale software possa offrire un'alternativa economicamente 
+vantaggiosa senza la necessità di sensori hardware dedicati.
 
 ## Struttura della Repository
 - `data/`: Dati , Dataset e versioni precedenti della tesi utilizzati per la redazione della versione finale (i dati grezzi non sono inclusi).
